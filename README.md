@@ -34,3 +34,5 @@ Project mission statement: TODO
 * Ecologists
 * Permaculture
 * Health Practitioners
+* Water technology
+* Teachers
