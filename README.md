@@ -1,2 +1,3 @@
-# mission
-Project mission statement
+# Mission Statement
+
+Project mission statement: TODO
