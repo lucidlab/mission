@@ -33,3 +33,4 @@ Project mission statement: TODO
 
 * Ecologists
 * Permaculture
+* Health Practitioners
