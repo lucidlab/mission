@@ -2,6 +2,8 @@
 
 Project mission statement: TODO
 
+Related: [venus-project][].
+
 ## Keywords
 
 * Rebirth
@@ -36,3 +38,5 @@ Project mission statement: TODO
 * Health Practitioners
 * Water technology
 * Teachers
+
+[venus-project]: https://www.thevenusproject.com/en/
