@@ -28,3 +28,8 @@ Project mission statement: TODO
 * Dawn
 * Emerge
 * Lucid
+
+## Fields of Expertise
+
+* Ecologists
+
