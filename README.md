@@ -32,4 +32,4 @@ Project mission statement: TODO
 ## Fields of Expertise
 
 * Ecologists
-
+* Permaculture
